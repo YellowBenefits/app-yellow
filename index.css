@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/ek1bZaRFAn3XTVIesmBXo0nnDOkzdW83BVUGeqnZnmDUPWKvFcbYzSuvMDPHmANEGmBHR1L4trvFyJXww.jpeg");
+  background-image: url("images/photo-1573164713712-03790a178651.jpeg");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -8,7 +8,7 @@
 
 .u-section-1 .u-text-1 {
   background-image: none;
-  text-shadow: 2px -2px 8px rgba(74,82,94,1);
+  text-shadow: 0px -2px 8px rgba(128,128,128,1);
   font-size: 4.5rem;
   font-weight: 700;
   width: 749px;
@@ -93,6 +93,7 @@
 
 @media (max-width: 575px) {
    .u-section-1 {
+    background-position: 50% 50%;
     min-height: 32px;
   }
 
@@ -102,7 +103,7 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    margin-top: 1px;
+    margin-top: -6px;
     margin-left: -27px;
     margin-right: -27px;
   }
@@ -111,8 +112,8 @@
     font-size: 0.875rem;
     font-weight: 700;
     border-style: solid;
-    margin-top: 204px;
-    margin-right: 18px;
+    margin-top: 211px;
+    margin-right: auto;
     margin-bottom: 9px;
     padding: 1px 6px 2px;
   }
@@ -448,13 +449,13 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 1885px;
+    min-height: 1881px;
   }
 
   .u-section-2 .u-text-1 {
     font-weight: 700;
     font-size: 1.875rem;
-    margin-top: 21px;
+    margin-top: 25px;
     margin-right: 0;
   }
 
@@ -471,7 +472,6 @@
   }
 
   .u-section-2 .u-btn-1 {
-    font-size: 0.875rem;
     margin-top: -845px;
     margin-left: auto;
     padding-right: 15px;
@@ -479,7 +479,6 @@
   }
 
   .u-section-2 .u-btn-2 {
-    font-size: 0.875rem;
     margin-top: -303px;
     margin-right: auto;
     padding-right: 5px;
@@ -487,7 +486,6 @@
   }
 
   .u-section-2 .u-btn-3 {
-    font-size: 0.875rem;
     margin-top: 490px;
     margin-right: auto;
     padding-right: 11px;
@@ -495,7 +493,6 @@
   }
 
   .u-section-2 .u-btn-4 {
-    font-size: 0.875rem;
     margin-top: 218px;
     margin-left: auto;
     padding-right: 4px;
@@ -503,7 +500,6 @@
   }
 
   .u-section-2 .u-btn-5 {
-    font-size: 0.875rem;
     margin-top: 226px;
     margin-right: auto;
     padding-right: 3px;
@@ -511,7 +507,6 @@
   }
 
   .u-section-2 .u-btn-6 {
-    font-size: 0.875rem;
     border-style: solid;
     margin-top: -1363px;
     margin-left: auto;
@@ -523,6 +518,6 @@
     height: 40px;
     width: 252px;
     margin-top: 1357px;
-    margin-bottom: 21px;
+    margin-bottom: 25px;
   }
 }
